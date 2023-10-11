@@ -6,14 +6,12 @@ Apaixonado pelo desenvolvimento e linguagens de programação. Atualmente, cursa
 
 🎶
 
-<div>
-    <img style="border-radius: 7px" align="center" alt="css" href="https://open.spotify.com/playlist/7w3hw9tOVoWKqSTDBDZOFo?si=85b5425a84924e09" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-</div> <br/>
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7w3hw9tOVoWKqSTDBDZOFo?si=52e773011a66485c)
 
 
 
 ![Mario GitHub stats](https://github-readme-stats.vercel.app/api?username=marioguiw&show_icons=true&theme=radical&card_width=400px&line_height=20px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioguiw&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 
 ## Tecnologias que eu uso no dia-a-dia
