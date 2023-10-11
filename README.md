@@ -7,7 +7,7 @@ Apaixonado pelo desenvolvimento e linguagens de programação. Atualmente, cursa
 🎶
 
 <div>
-    <img style="border-radius: 7px" align="center" alt="css" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img style="border-radius: 7px" align="center" alt="css" href="https://open.spotify.com/playlist/7w3hw9tOVoWKqSTDBDZOFo?si=85b5425a84924e09" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
 </div> <br/>
 
 
