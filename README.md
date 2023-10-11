@@ -13,7 +13,7 @@ Apaixonado pelo desenvolvimento e linguagens de programação. Atualmente, cursa
 
 
 ![Mario GitHub stats](https://github-readme-stats.vercel.app/api?username=marioguiw&show_icons=true&theme=radical&card_width=400px&line_height=20px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioguiwa&layout=compact&theme=radical)
 
 
 ## Tecnologias que eu uso no dia-a-dia
