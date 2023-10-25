@@ -25,5 +25,3 @@ Apaixonado pelo desenvolvimento e linguagens de programação. Atualmente, cursa
     <img style="border-radius: 7px"  align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </div><br/>
-
-Apaixonado pelo desenvolvimento e linguagens de programação. Atualmente, cursando Engenharia de Software no Biopark e buscando constantemente aprimorar minhas habilidades.
