@@ -4,7 +4,7 @@
 
 Apaixonado pelo desenvolvimento e linguagens de programação. Atualmente, cursando Engenharia de Software no Biopark e buscando constantemente aprimorar minhas habilidades.
 
-[![Gist Card]](facebool.com.br)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marioguiw&repo=github-readme-stats)](https://portfoliomario-teal.vercel.app/)
 
 🎶
 
