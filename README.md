@@ -4,6 +4,9 @@
 
 Apaixonado pelo desenvolvimento e linguagens de programação. Atualmente, cursando Engenharia de Software no Biopark e buscando constantemente aprimorar minhas habilidades.
 
+## Porfólio
+![Portfolio]([https://github-readme-stats.vercel.app/api?username=marioguiw&show_icons=true&theme=radical&card_width=400px&line_height=20px](https://portfoliomario-teal.vercel.app/))
+
 🎶
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7w3hw9tOVoWKqSTDBDZOFo?si=52e773011a66485c)
