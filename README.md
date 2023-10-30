@@ -4,6 +4,8 @@
 
 Apaixonado pelo desenvolvimento e linguagens de programação. Atualmente, cursando Engenharia de Software no Biopark e buscando constantemente aprimorar minhas habilidades.
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
 🎶
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7w3hw9tOVoWKqSTDBDZOFo?si=52e773011a66485c)
